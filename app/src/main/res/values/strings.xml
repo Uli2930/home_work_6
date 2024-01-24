@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">home_work_6</string>
+    <string name="Enter">Вход</string>
+    <string name="Welcome">Добро пожаловать!</string>
+    <string name="do_enter">Выполните вход</string>
+    <string name="or_register">или зарегистрируйтесь.</string>
+    <string name="enter_your_email">Введите вашу почту</string>
+    <string name="enter_password">Введите пароль</string>
+</resources>
